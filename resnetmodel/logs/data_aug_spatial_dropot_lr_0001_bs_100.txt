@@ -1,0 +1,171 @@
+Epoch 1/10
+Batch 60: Loss = 1.0699
+Batch 120: Loss = 1.0164
+Batch 180: Loss = 0.8923
+Batch 240: Loss = 0.9853
+Batch 300: Loss = 0.9955
+Batch 360: Loss = 0.9890
+Batch 420: Loss = 0.9817
+Batch 480: Loss = 0.9759
+Batch 540: Loss = 0.8682
+Batch 600: Loss = 1.0499
+Batch 660: Loss = 1.0242
+Batch 720: Loss = 0.8905
+Batch 780: Loss = 1.0600
+Batch 840: Loss = 0.9122
+Batch 900: Loss = 1.0407
+Epoch [1/10] Train Loss: 1.0202 | Train Acc: 63.90% | Val Loss: 1.0276 | Val Acc: 63.82%
+Epoch 2/10
+Batch 60: Loss = 1.0698
+Batch 120: Loss = 0.9862
+Batch 180: Loss = 1.0656
+Batch 240: Loss = 1.1703
+Batch 300: Loss = 1.1025
+Batch 360: Loss = 0.8921
+Batch 420: Loss = 0.8121
+Batch 480: Loss = 1.0352
+Batch 540: Loss = 1.0161
+Batch 600: Loss = 0.9526
+Batch 660: Loss = 1.0170
+Batch 720: Loss = 1.3744
+Batch 780: Loss = 1.0009
+Batch 840: Loss = 1.0095
+Batch 900: Loss = 0.9669
+Epoch [2/10] Train Loss: 1.0024 | Train Acc: 64.52% | Val Loss: 0.9854 | Val Acc: 64.56%
+Epoch 3/10
+Batch 60: Loss = 0.9003
+Batch 120: Loss = 0.9983
+Batch 180: Loss = 1.0047
+Batch 240: Loss = 1.0961
+Batch 300: Loss = 0.9778
+Batch 360: Loss = 0.9029
+Batch 420: Loss = 1.1102
+Batch 480: Loss = 0.9911
+Batch 540: Loss = 0.9111
+Batch 600: Loss = 0.8475
+Batch 660: Loss = 0.8332
+Batch 720: Loss = 1.0784
+Batch 780: Loss = 0.9089
+Batch 840: Loss = 1.0601
+Batch 900: Loss = 1.0465
+Epoch [3/10] Train Loss: 0.9914 | Train Acc: 64.89% | Val Loss: 1.1408 | Val Acc: 60.67%
+Epoch 4/10
+Batch 60: Loss = 1.0576
+Batch 120: Loss = 0.9063
+Batch 180: Loss = 1.0189
+Batch 240: Loss = 0.8928
+Batch 300: Loss = 0.8774
+Batch 360: Loss = 1.0238
+Batch 420: Loss = 0.9147
+Batch 480: Loss = 0.9009
+Batch 540: Loss = 0.8850
+Batch 600: Loss = 1.1133
+Batch 660: Loss = 0.9127
+Batch 720: Loss = 1.0239
+Batch 780: Loss = 1.0076
+Batch 840: Loss = 1.0639
+Batch 900: Loss = 0.8534
+Epoch [4/10] Train Loss: 0.9769 | Train Acc: 65.36% | Val Loss: 0.9624 | Val Acc: 65.96%
+Epoch 5/10
+Batch 60: Loss = 1.1556
+Batch 120: Loss = 1.0051
+Batch 180: Loss = 0.9292
+Batch 240: Loss = 0.8531
+Batch 300: Loss = 0.9485
+Batch 360: Loss = 0.8813
+Batch 420: Loss = 0.9984
+Batch 480: Loss = 0.9856
+Batch 540: Loss = 1.0691
+Batch 600: Loss = 0.9264
+Batch 660: Loss = 0.9814
+Batch 720: Loss = 0.9041
+Batch 780: Loss = 0.9964
+Batch 840: Loss = 0.7558
+Batch 900: Loss = 1.3719
+Epoch [5/10] Train Loss: 0.9568 | Train Acc: 66.10% | Val Loss: 0.9780 | Val Acc: 64.99%
+Epoch 6/10
+Batch 60: Loss = 0.8411
+Batch 120: Loss = 0.9675
+Batch 180: Loss = 0.9887
+Batch 240: Loss = 0.9228
+Batch 300: Loss = 1.1751
+Batch 360: Loss = 0.8885
+Batch 420: Loss = 0.9531
+Batch 480: Loss = 1.0059
+Batch 540: Loss = 1.0011
+Batch 600: Loss = 1.0414
+Batch 660: Loss = 0.8601
+Batch 720: Loss = 0.9339
+Batch 780: Loss = 0.7320
+Batch 840: Loss = 0.9953
+Batch 900: Loss = 0.9842
+Epoch [6/10] Train Loss: 0.9491 | Train Acc: 66.33% | Val Loss: 0.9702 | Val Acc: 65.80%
+Epoch 7/10
+Batch 60: Loss = 0.8019
+Batch 120: Loss = 0.9335
+Batch 180: Loss = 0.9769
+Batch 240: Loss = 0.8830
+Batch 300: Loss = 0.8439
+Batch 360: Loss = 1.0224
+Batch 420: Loss = 0.9940
+Batch 480: Loss = 0.8867
+Batch 540: Loss = 0.9526
+Batch 600: Loss = 0.7228
+Batch 660: Loss = 1.1308
+Batch 720: Loss = 0.9418
+Batch 780: Loss = 0.9382
+Batch 840: Loss = 0.9725
+Batch 900: Loss = 1.0381
+Epoch [7/10] Train Loss: 0.9376 | Train Acc: 66.78% | Val Loss: 0.9119 | Val Acc: 67.77%
+Epoch 8/10
+Batch 60: Loss = 0.7876
+Batch 120: Loss = 0.8137
+Batch 180: Loss = 0.6767
+Batch 240: Loss = 0.9042
+Batch 300: Loss = 0.8867
+Batch 360: Loss = 0.8117
+Batch 420: Loss = 0.7534
+Batch 480: Loss = 0.8804
+Batch 540: Loss = 1.1505
+Batch 600: Loss = 0.7575
+Batch 660: Loss = 0.9490
+Batch 720: Loss = 1.0704
+Batch 780: Loss = 0.9899
+Batch 840: Loss = 1.0516
+Batch 900: Loss = 0.9860
+Epoch [8/10] Train Loss: 0.9223 | Train Acc: 67.37% | Val Loss: 0.9275 | Val Acc: 67.15%
+Epoch 9/10
+Batch 60: Loss = 0.9081
+Batch 120: Loss = 0.7415
+Batch 180: Loss = 0.8767
+Batch 240: Loss = 0.9811
+Batch 300: Loss = 0.7806
+Batch 360: Loss = 1.0986
+Batch 420: Loss = 0.8307
+Batch 480: Loss = 0.7605
+Batch 540: Loss = 1.2295
+Batch 600: Loss = 0.8728
+Batch 660: Loss = 0.7860
+Batch 720: Loss = 0.8909
+Batch 780: Loss = 0.9872
+Batch 840: Loss = 0.7835
+Batch 900: Loss = 0.7158
+Epoch [9/10] Train Loss: 0.9123 | Train Acc: 67.73% | Val Loss: 0.9365 | Val Acc: 66.73%
+Epoch 10/10
+Batch 60: Loss = 0.7858
+Batch 120: Loss = 0.7710
+Batch 180: Loss = 0.9359
+Batch 240: Loss = 1.0720
+Batch 300: Loss = 0.8780
+Batch 360: Loss = 0.9221
+Batch 420: Loss = 0.7647
+Batch 480: Loss = 1.1277
+Batch 540: Loss = 0.8335
+Batch 600: Loss = 0.9976
+Batch 660: Loss = 0.8321
+Batch 720: Loss = 1.1557
+Batch 780: Loss = 0.9214
+Batch 840: Loss = 0.8910
+Batch 900: Loss = 1.0538
+Epoch [10/10] Train Loss: 0.9023 | Train Acc: 67.92% | Val Loss: 0.9384 | Val Acc: 67.16%
+Final Test Loss: 0.9168, Test Acc: 67.52%
