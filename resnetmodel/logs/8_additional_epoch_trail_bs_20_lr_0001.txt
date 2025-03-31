@@ -73,7 +73,7 @@ Batch 4320: Loss = 0.4499
 Batch 4380: Loss = 0.7419
 Batch 4440: Loss = 1.5427
 Batch 4500: Loss = 0.8309
-Additional Epoch [1/8] Train Loss: 0.8942 | Train Acc: 68.27% Val Loss: 1.2404 | Val Acc: 57.16%
+Additional Epoch [1/8] Train Loss: 0.8942 | Train Acc: 68.27% | Val Loss: 1.2404 | Val Acc: 57.16%
 Batch 60: Loss = 1.0970
 Batch 120: Loss = 1.1533
 Batch 180: Loss = 0.9651
@@ -149,7 +149,7 @@ Batch 4320: Loss = 0.9305
 Batch 4380: Loss = 0.9654
 Batch 4440: Loss = 0.5219
 Batch 4500: Loss = 0.9503
-Additional Epoch [2/8] Train Loss: 0.8107 | Train Acc: 71.20% Val Loss: 1.0489 | Val Acc: 63.47%
+Additional Epoch [2/8] Train Loss: 0.8107 | Train Acc: 71.20% | Val Loss: 1.0489 | Val Acc: 63.47%
 Batch 60: Loss = 0.6025
 Batch 120: Loss = 0.8529
 Batch 180: Loss = 0.4833
@@ -225,7 +225,7 @@ Batch 4320: Loss = 0.4547
 Batch 4380: Loss = 0.5627
 Batch 4440: Loss = 0.7717
 Batch 4500: Loss = 0.9988
-Additional Epoch [3/8] Train Loss: 0.7200 | Train Acc: 74.57% Val Loss: 1.0660 | Val Acc: 63.87%
+Additional Epoch [3/8] Train Loss: 0.7200 | Train Acc: 74.57% | Val Loss: 1.0660 | Val Acc: 63.87%
 Batch 60: Loss = 0.8945
 Batch 120: Loss = 0.4548
 Batch 180: Loss = 0.4383
@@ -301,7 +301,7 @@ Batch 4320: Loss = 0.8960
 Batch 4380: Loss = 0.7833
 Batch 4440: Loss = 0.9256
 Batch 4500: Loss = 0.5783
-Additional Epoch [4/8] Train Loss: 0.6366 | Train Acc: 77.42% Val Loss: 1.0822 | Val Acc: 64.13%
+Additional Epoch [4/8] Train Loss: 0.6366 | Train Acc: 77.42% | Val Loss: 1.0822 | Val Acc: 64.13%
 Batch 60: Loss = 0.4394
 Batch 120: Loss = 1.1485
 Batch 180: Loss = 0.2155
@@ -377,7 +377,7 @@ Batch 4320: Loss = 1.2897
 Batch 4380: Loss = 1.2077
 Batch 4440: Loss = 0.9214
 Batch 4500: Loss = 0.5368
-Additional Epoch [5/8] Train Loss: 0.5451 | Train Acc: 80.61% Val Loss: 1.1762 | Val Acc: 62.87%
+Additional Epoch [5/8] Train Loss: 0.5451 | Train Acc: 80.61% | Val Loss: 1.1762 | Val Acc: 62.87%
 Batch 60: Loss = 0.3929
 Batch 120: Loss = 0.5408
 Batch 180: Loss = 0.2066
@@ -453,7 +453,7 @@ Batch 4320: Loss = 0.6840
 Batch 4380: Loss = 0.5478
 Batch 4440: Loss = 0.2504
 Batch 4500: Loss = 0.5986
-Additional Epoch [6/8] Train Loss: 0.4701 | Train Acc: 83.28% Val Loss: 1.2087 | Val Acc: 63.82%
+Additional Epoch [6/8] Train Loss: 0.4701 | Train Acc: 83.28% | Val Loss: 1.2087 | Val Acc: 63.82%
 Batch 60: Loss = 0.4237
 Batch 120: Loss = 0.1985
 Batch 180: Loss = 0.3163
@@ -529,7 +529,7 @@ Batch 4320: Loss = 0.4808
 Batch 4380: Loss = 0.3558
 Batch 4440: Loss = 0.3954
 Batch 4500: Loss = 0.8574
-Additional Epoch [7/8] Train Loss: 0.4080 | Train Acc: 85.39% Val Loss: 1.3006 | Val Acc: 64.03%
+Additional Epoch [7/8] Train Loss: 0.4080 | Train Acc: 85.39% | Val Loss: 1.3006 | Val Acc: 64.03%
 Batch 60: Loss = 0.3629
 Batch 120: Loss = 0.4627
 Batch 180: Loss = 0.4970
@@ -605,6 +605,6 @@ Batch 4320: Loss = 0.5038
 Batch 4380: Loss = 0.5569
 Batch 4440: Loss = 0.2807
 Batch 4500: Loss = 0.8202
-Additional Epoch [8/8] Train Loss: 0.3495 | Train Acc: 87.59% Val Loss: 1.3235 | Val Acc: 63.27%
+Additional Epoch [8/8] Train Loss: 0.3495 | Train Acc: 87.59% | Val Loss: 1.3235 | Val Acc: 63.27%
 
 
